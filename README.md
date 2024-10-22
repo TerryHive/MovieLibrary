@@ -33,3 +33,9 @@ The **Movie Library** project is a C++ application that serves as a movie manage
    ```bash
    git clone https://github.com/TerryHive/MovieLibrary.git
    cd MovieLibrary
+
+   g++ -o MovieLibrary src/*.cpp -I include/
+
+
+   ./MovieLibrary
+
